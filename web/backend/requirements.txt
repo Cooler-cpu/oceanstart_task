@@ -5,3 +5,4 @@ django-filter
 django-nested-admin
 djangorestframework
 drf-yasg
+django-admin-sortable2

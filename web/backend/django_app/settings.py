@@ -140,6 +140,7 @@ INSTALLED_APPS += [
     'rest_framework',
     'django_filters',
     'drf_yasg',
+    'adminsortable2',
 ]
 
 # Modules of the first version of the API
