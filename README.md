@@ -1,4 +1,4 @@
 # oceanstart_task
-oceanstart Тестовое задание backend developer
+riverstart.ru Тестовое задание backend developer
 
 api documentation - /api/v1/swagger/
